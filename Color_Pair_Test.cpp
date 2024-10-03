@@ -1,6 +1,7 @@
 #include "ColorPair.hpp"
 #include <assert.h>
 
+
 namespace Color
 {
 void testNumberToPair(int pairNumber,
