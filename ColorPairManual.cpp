@@ -2,6 +2,7 @@
 #include <iomanip>
 #include <string>
 
+
 namespace Color
 {
 void printColorCodingManual() {
